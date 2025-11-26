@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou o Denilson Faria
-- ✨ Trabalhando com desenvolvimento
+- ✨ Trabalho com Front End
 - 📚 Estudando novas tecnologias
 - 🚀 Pronto para o próximo desafio
 
